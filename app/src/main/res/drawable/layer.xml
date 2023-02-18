@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:item="http://schemas.android.com/tools">
+<!--importing the three images I added for each color-->
+    <item: android:drawable="@drawable/red_light"/>
+    <item: android:drawable="@drawable/yellow_light"/>
+    <item: android:drawable="@drawable/green_light"/>
+</layer-list>
