@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">StopLight</string>
+    <string name="stop_button">Stop</string>
+    <string name="go_button">Go</string>
+    <string name="wait_button">Wait</string>
+
 </resources>
